@@ -164,7 +164,7 @@ function App() {
             <Layout className="layout">
                 <Header>
                     <div style={{ textAlign: 'center'}}>
-                        <TextTitle style={{color: '#ffffff', marginTop: '14px'}} level={3}>OMDB API + React</TextTitle>
+                        <TextTitle style={{color: '#ffffff', marginTop: '14px'}} level={3}>MyTestApp</TextTitle>
                     </div>
                 </Header>
                 <Content style={{ padding: '0 50px' }}>
@@ -208,7 +208,7 @@ function App() {
                         }
                     </Modal>
                 </Content>
-                <Footer style={{ textAlign: 'center' }}>OMDB Movies ©2019</Footer>
+                <Footer style={{ textAlign: 'center' }}>Oladipo Isaac</Footer>
             </Layout>
         </div>
     );
